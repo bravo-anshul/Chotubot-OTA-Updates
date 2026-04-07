@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "url": "https://github.com/bravo-anshul/Chotubot-OTA-Updates/raw/refs/heads/main/firmware.bin",
+  "url": "https://raw.githubusercontent.com/bravo-anshul/Chotubot-OTA-Updates/main/firmware.bin",
   "notes": "Test OTA update"
 }

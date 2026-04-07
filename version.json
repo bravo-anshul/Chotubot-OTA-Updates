@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "url": "https://raw.githubusercontent.com/YOUR_USER/chotubot-firmware/main/firmware.bin",
+  "notes": "Test OTA update"
+}
